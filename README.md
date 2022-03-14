@@ -68,4 +68,4 @@ systemctl restart umeed
 * Set variables in dashboard:  
 instance: <UMEE_SERVER_IP>:<9100>  
 instance_umee_exporter: <UMEE_SERVER_IP>:<UMEE_EXPORTER_PORT> 
-instance_tendermint_exporter: <UMEE_SERVER_IP>:<26660>
+instance_tendermint_exporter: <UMEE_SERVER_IP>:<26660>  
